@@ -1,0 +1,4 @@
+filename,ADD_score,ADD_pred,COG_score,COG_pred,COG,ADD
+demo1.npy,0.9998951,1,1.6504285,2,2,1.0
+demo2.npy,0.9999969,1,1.6093173,2,2,1.0
+demo3.npy,0.98966295,1,0.9020833,1,1,

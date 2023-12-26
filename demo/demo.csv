@@ -1,0 +1,4 @@
+filename,path,ADD,COG
+demo1.npy,./demo/mri/,1,2
+demo2.npy,./demo/mri/,1,2
+demo3.npy,./demo/mri/,NA,1
